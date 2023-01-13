@@ -43,7 +43,6 @@ body{
 }
 .profile img{
     width: 100%;
-    /* border-radius: 50%; */
     border: 8px solid #002333;
 }
 
@@ -81,7 +80,6 @@ body{
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    /* color: #718096; */
     color: #94D9EA;
 }
 .contact-info ul li i{
@@ -118,16 +116,6 @@ body{
     color: #ccc;
     padding: .4rem 0;
 }
-
-/* .references-section li{
-    color: #ccc;
-    padding: .2rem 0;
-}
-.references-section li i{
-    padding-right: .5rem;
-    font-size: 1.2rem;
-    color: #2D9CDB;
-} */
 
 .right-main-content{
     padding: 2rem 3rem;
@@ -246,9 +234,7 @@ body{
 }
 
 .languages-section .lang p {
-    /* border: 2px solid red; */
     padding: 10px 5px;
-    /* margin: 5px; */
 }
 
 .about-sect:hover {
